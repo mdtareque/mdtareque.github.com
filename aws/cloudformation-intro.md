@@ -1,0 +1,16 @@
+
+
+### Very Basics (Mandatory Read)
+
+1. What is CloudFormation?
+2. What are the advantages of CloudFormation?
+3. What are different ways to interact with CloudFormation?
+Template Writing:
+a. any text editor
+b. Use AWS Provided cloudformation designer that is Drag-n-drop and is flexible as it also allows to modify the template textually.
+Invoke/Execute:
+a. From AWS Console
+b. From AWS Cli
+b. From AWS sdk
+
+## Recommended Reading
