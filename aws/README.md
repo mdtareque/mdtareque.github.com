@@ -2,6 +2,8 @@
 
 This bundle contains a built executable of the AWS CLI v2.
 
+New Content.
+
 ## Installation
 
 To install the AWS CLI v2, run the `install` script:
